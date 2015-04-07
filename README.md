@@ -1,8 +1,7 @@
 album
 =====
 
-One page site with music from sound cloud
-
+One page site with music from sound cloud. Not created by me, funkytaco.
 ## Install
 
 ```
